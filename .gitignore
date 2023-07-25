@@ -2,3 +2,6 @@ MapsProj/AppDelegate.swift
 xcuserdata/
 DerivedData/
 Packages/
+Pods/
+Podfile.lock
+MapsProj.xcodeproj/project.xcworkspace/xcuserdata/
